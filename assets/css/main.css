@@ -582,7 +582,7 @@ body {
   content: "05";
 }
 .side-nav li.is-active {
-  color: #0f33ff;
+  /* color: #0f33ff; */
   -webkit-transition: color 0.4s ease-in-out;
   transition: color 0.4s ease-in-out;
 }
