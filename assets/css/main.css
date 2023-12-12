@@ -1603,7 +1603,7 @@ body {
   content: "";
   position: absolute;
   top: 50%;
-  left: 123%;
+  left: -12%;
   -webkit-transform: translate(-50%, -25%);
   transform: translate(-50%, -25%);
   width: 8%;
